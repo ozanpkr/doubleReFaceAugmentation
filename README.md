@@ -7,7 +7,7 @@
 [numpy](https://github.com/numpy/numpy),pip install numpy
 
 ## TODO
-→Completed train images augmentation
+→Complete train images augmentation
 
 →Create CNN 
 
