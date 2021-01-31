@@ -22,3 +22,6 @@ Second image is raw image and first image is created from left side of raw image
 →Create CNN 
 
 →Test with augmentation and without augmentation
+
+## Authors
+* **Ozan PEKER** - [ghostronintr](https://github.com/ghostronintr)
