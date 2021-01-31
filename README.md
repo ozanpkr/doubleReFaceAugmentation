@@ -8,7 +8,5 @@
 
 ## TODO
 ->Completed train images augmentation
-
 ->Create CNN 
-
 ->Test with augmentation and without augmentation
