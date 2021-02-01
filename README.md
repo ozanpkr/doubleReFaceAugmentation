@@ -13,9 +13,11 @@
 
 Second images are raw images and first images are created from left side of raw images and third images are created from right side of raw images
 ## Requirements
-[opencv](https://github.com/opencv/opencv),pip install opencv-python
+* [pytorch](https://github.com/pytorch/pytorch)
 
-[numpy](https://github.com/numpy/numpy),pip install numpy
+* [opencv](https://github.com/opencv/opencv)
+
+* [numpy](https://github.com/numpy/numpy)
 
 ## TODO
 →Complete train images augmentation
