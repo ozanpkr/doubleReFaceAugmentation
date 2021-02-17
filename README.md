@@ -20,9 +20,9 @@ Second images are raw images and first images are created from left side of raw 
 * [numpy](https://github.com/numpy/numpy)
 
 ## TODO
-→Complete train images augmentation
+→~Complete train images augmentation~
 
-→Create CNN 
+→~Create CNN~ 
 
 →Test with augmentation and without augmentation
 
