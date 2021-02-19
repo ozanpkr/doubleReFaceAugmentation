@@ -22,7 +22,7 @@ Second images are raw images and first images are created from left side of raw 
 
 
 ## Requirements
-* [pytorch](https://github.com/pytorch/pytorch)
+* [tensorflow](https://github.com/tensorflow/tensorflow)
 
 * [opencv](https://github.com/opencv/opencv)
 
